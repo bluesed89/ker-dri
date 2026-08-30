@@ -1,0 +1,8 @@
+.vs/
+build/
+out/
+dump_result/
+*.obj
+*.exe
+*.sys
+*.pdb

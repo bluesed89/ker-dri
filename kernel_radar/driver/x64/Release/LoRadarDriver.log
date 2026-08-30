@@ -1,0 +1,9 @@
+﻿  Building 'LoRadarDriver' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  driver.c
+  LoRadarDriver.vcxproj -> C:\Users\ufuq\Desktop\s\kernel_radar\driver\build\bin\LoRadarDriver.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\ufuq\Desktop\s\kernel_radar\driver\build\bin\LoRadarDriver.sys
+  
+  Driver is 'Universal'.
+  Inf2Cat task was skipped as there were no inf files to process
+  
